@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="toronto-weather-dashboard.vcxproj" />
+  <Project Path="toronto-weather-dashboard.vcxproj" Id="598ef4db-741d-4015-b3b7-72e91c915b41" />
 </Solution>
