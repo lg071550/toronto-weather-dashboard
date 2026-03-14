@@ -1,0 +1,17 @@
+# Toronto Weather Dashboard — example config
+# Copy to config.yaml and fill in as needed.
+
+metar_stations:
+  - CYYZ   # Toronto Pearson (primary)
+  - CYZD   # Downsview
+  - CYKZ   # Buttonville
+  - CYOO   # Oshawa
+
+refresh_intervals_seconds:
+  nwp:    300
+  metar:   60
+  hourly: 300
+
+toronto:
+  lat: 43.6777
+  lon: -79.6248
